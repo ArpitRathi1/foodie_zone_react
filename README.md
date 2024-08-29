@@ -26,3 +26,10 @@ A modern, responsive restaurant website built using React and Tailwind CSS. Food
 - **Framer Motion**: Library for creating animations and gestures.
 
 ## Screenshots
+
+![Screenshot from 2024-08-29 11-45-48](https://github.com/user-attachments/assets/9e90d566-57c6-4dcb-ae60-26dd76eb2667)
+
+![Screenshot from 2024-08-29 11-45-56](https://github.com/user-attachments/assets/a818ed29-b637-43a7-a424-aa63d93c7851)
+
+![Screenshot from 2024-08-29 11-46-12](https://github.com/user-attachments/assets/fb421d73-4888-4956-a30f-66588ff809b8)
+
