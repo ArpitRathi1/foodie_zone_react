@@ -33,3 +33,30 @@ A modern, responsive restaurant website built using React and Tailwind CSS. Food
 
 ![Screenshot from 2024-08-29 11-46-12](https://github.com/user-attachments/assets/fb421d73-4888-4956-a30f-66588ff809b8)
 
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/ArpitRathi1/foodie_zone_react.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd foodie_zone_react
+   ```
+
+3. Install the dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
