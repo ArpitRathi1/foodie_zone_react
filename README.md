@@ -17,3 +17,12 @@ A modern, responsive restaurant website built using React and Tailwind CSS. Food
 - **Light/Dark Mode**: Users can switch between light and dark themes for a personalized experience.
 - **Animations**: Eye-catching animations on the website, including smooth transitions and interactive effects.
 - **Scroll Animations**: Elements animate into view as users scroll through the website, creating an engaging browsing experience.
+
+## Tech Stack
+
+- **React**: JavaScript library for building user interfaces.
+- **Tailwind CSS**: Utility-first CSS framework for fast UI development.
+- **React Icons**: Collection of popular icons for React applications.
+- **Framer Motion**: Library for creating animations and gestures.
+
+## Screenshots
