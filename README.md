@@ -60,3 +60,13 @@ To run this project locally, follow these steps:
    ```bash
    npm run dev
    ```
+
+## Contributing
+
+Contributions are welcome! Feel free to submit a pull request or open an issue for any improvements or bugs.
+
+## Contact
+
+For any questions or feedback, feel free to reach out:
+- Email: rathi844@gmail.com
+- GitHub: @ArpitRathi1
