@@ -6,8 +6,8 @@ A modern, responsive restaurant website built using React and Tailwind CSS. Food
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Installation](#installation)
 - [Screenshots](#screenshots)
+- [Installation](#installation)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
